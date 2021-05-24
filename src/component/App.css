@@ -1,0 +1,22 @@
+
+body {
+background-color: #330000;
+background-image: url("https://miro.medium.com/max/1400/1*BU7f02LeQeELztqxa8eCmw.gif");
+background-attachment: fixed;
+background-size: cover;
+}
+.d-flex:hover {
+  cursor: pointer;
+}
+body {
+  color: white;
+}
+.card {
+  background: #ce2f64;
+}
+.modal-title {
+  color: black
+}
+.form-group {
+  color: black;
+}
